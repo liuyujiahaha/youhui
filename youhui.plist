@@ -11,23 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://dzgtest.vpclub.cn/upload/file/20160906/505c4bc9c47941b4926065c67b89bb57.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string></string>
+					<string>https://github.com/liuyujiahaha/youhui/blob/master/youhui.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
 					<key>url</key>
-					<string></string>
+					<string>https://github.com/liuyujiahaha/youhui/blob/master/LOGODisplay.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/liuyujiahaha/youhui/blob/master/LOGOFullSize.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>渝优汇</string>
+				<string>youhui</string>
 			</dict>
 		</dict>
 	</array>
