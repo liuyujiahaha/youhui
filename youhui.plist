@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ipa包的下载地址</string>
+					<string>http://dzgtest.vpclub.cn/upload/file/20160906/505c4bc9c47941b4926065c67b89bb57.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.xxx.com/ipa/icon_120.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.xxx.com/ipa/icon_120.png</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -43,7 +43,5 @@
 			</dict>
 		</dict>
 	</array>
-	<key>liuiyujia</key>
-	<string></string>
 </dict>
 </plist>
